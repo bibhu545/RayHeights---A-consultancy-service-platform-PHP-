@@ -1,0 +1,70 @@
+[12-Oct-2017 15:49:14 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 15:50:22 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 15:51:27 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 15:52:56 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 15:53:51 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 15:55:38 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 16:00:34 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 16:12:23 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 16:15:42 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 16:33:19 Etc/GMT] PHP Notice:  Undefined variable: lastname in /home/rayhe9dx/public_html/finance/car_loan.php on line 44
+[12-Oct-2017 16:33:19 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 53
+[12-Oct-2017 16:35:40 Etc/GMT] PHP Notice:  Undefined variable: lastname in /home/rayhe9dx/public_html/finance/car_loan.php on line 44
+[12-Oct-2017 16:35:40 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 53
+[12-Oct-2017 16:39:19 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 17:06:46 Etc/GMT] PHP Notice:  Undefined variable: desc in /home/rayhe9dx/public_html/finance/business_loan.php on line 19
+[12-Oct-2017 17:06:46 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/business_loan.php on line 28
+[12-Oct-2017 18:15:48 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 29
+[12-Oct-2017 18:24:09 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:24:09 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:24:09 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:24:26 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:24:26 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:24:26 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:24:26 Etc/GMT] PHP Notice:  Undefined variable: date in /home/rayhe9dx/public_html/finance/car_loan.php on line 15
+[12-Oct-2017 18:24:32 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:24:32 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:24:32 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:28:00 Etc/GMT] PHP Notice:  Undefined variable: date in /home/rayhe9dx/public_html/finance/car_loan.php on line 18
+[12-Oct-2017 18:28:00 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 28
+[12-Oct-2017 18:30:05 Etc/GMT] PHP Notice:  Undefined index: firstname in /home/rayhe9dx/public_html/finance/car_loan.php on line 7
+[12-Oct-2017 18:30:05 Etc/GMT] PHP Notice:  Undefined index: price in /home/rayhe9dx/public_html/finance/car_loan.php on line 10
+[12-Oct-2017 18:30:05 Etc/GMT] PHP Notice:  Undefined index: addr in /home/rayhe9dx/public_html/finance/car_loan.php on line 11
+[12-Oct-2017 18:30:05 Etc/GMT] PHP Notice:  Undefined index: desc in /home/rayhe9dx/public_html/finance/car_loan.php on line 12
+[12-Oct-2017 18:30:05 Etc/GMT] PHP Notice:  Undefined variable: date in /home/rayhe9dx/public_html/finance/car_loan.php on line 18
+[12-Oct-2017 18:30:05 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 28
+[12-Oct-2017 18:30:45 Etc/GMT] PHP Notice:  Undefined index: firstname in /home/rayhe9dx/public_html/finance/car_loan.php on line 7
+[12-Oct-2017 18:30:45 Etc/GMT] PHP Notice:  Undefined index: price in /home/rayhe9dx/public_html/finance/car_loan.php on line 10
+[12-Oct-2017 18:30:45 Etc/GMT] PHP Notice:  Undefined index: addr in /home/rayhe9dx/public_html/finance/car_loan.php on line 11
+[12-Oct-2017 18:30:45 Etc/GMT] PHP Notice:  Undefined index: desc in /home/rayhe9dx/public_html/finance/car_loan.php on line 12
+[12-Oct-2017 18:30:45 Etc/GMT] PHP Notice:  Undefined variable: date in /home/rayhe9dx/public_html/finance/car_loan.php on line 18
+[12-Oct-2017 18:30:45 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 28
+[12-Oct-2017 18:31:01 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:31:01 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:31:01 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:31:01 Etc/GMT] PHP Notice:  Undefined variable: date in /home/rayhe9dx/public_html/finance/car_loan.php on line 15
+[12-Oct-2017 18:31:06 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:31:06 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:31:06 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:31:30 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:31:30 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:31:30 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:31:57 Etc/GMT] PHP Notice:  Undefined variable: date in /home/rayhe9dx/public_html/finance/car_loan.php on line 15
+[12-Oct-2017 18:31:57 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 25
+[12-Oct-2017 18:32:37 Etc/GMT] PHP Notice:  Undefined variable: date in /home/rayhe9dx/public_html/finance/car_loan.php on line 15
+[12-Oct-2017 18:32:37 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 25
+[12-Oct-2017 18:32:57 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:32:57 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:32:57 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:39:16 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:39:16 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:39:16 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:39:31 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:39:31 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:39:31 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:39:31 Etc/GMT] PHP Notice:  Undefined variable: date in /home/rayhe9dx/public_html/finance/car_loan.php on line 15
+[12-Oct-2017 18:39:36 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:39:36 Etc/GMT] PHP Warning:  include(includes/login-header.php): failed to open stream: No such file or directory in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:39:36 Etc/GMT] PHP Warning:  include(): Failed opening 'includes/login-header.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/rayhe9dx/public_html/finance/car_loan.php on line 1
+[12-Oct-2017 18:40:05 Etc/GMT] PHP Notice:  Undefined variable: date in /home/rayhe9dx/public_html/finance/car_loan.php on line 15
+[12-Oct-2017 18:40:05 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rayhe9dx/public_html/finance/includes/header.php:114) in /home/rayhe9dx/public_html/finance/car_loan.php on line 25
