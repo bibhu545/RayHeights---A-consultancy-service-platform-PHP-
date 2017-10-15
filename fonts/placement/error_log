@@ -1,0 +1,11 @@
+[26-Sep-2017 05:52:51 Etc/GMT] PHP Notice:  Undefined variable: company_result in /home/rayhe9dx/public_html/placement/student_view_profile.php on line 23
+[26-Sep-2017 05:52:51 Etc/GMT] PHP Notice:  Undefined variable: company_result in /home/rayhe9dx/public_html/placement/student_view_profile.php on line 34
+[26-Sep-2017 05:52:51 Etc/GMT] PHP Notice:  Undefined variable: company_result in /home/rayhe9dx/public_html/placement/student_view_profile.php on line 35
+[26-Sep-2017 05:52:51 Etc/GMT] PHP Notice:  Undefined variable: company_result in /home/rayhe9dx/public_html/placement/student_view_profile.php on line 36
+[26-Sep-2017 05:52:51 Etc/GMT] PHP Notice:  Undefined variable: company_result in /home/rayhe9dx/public_html/placement/student_view_profile.php on line 37
+[26-Sep-2017 05:52:51 Etc/GMT] PHP Notice:  Undefined variable: company_result in /home/rayhe9dx/public_html/placement/student_view_profile.php on line 38
+[26-Sep-2017 05:53:07 Etc/GMT] PHP Notice:  Undefined variable: student_result in /home/rayhe9dx/public_html/placement/student_edit_profile.php on line 50
+[26-Sep-2017 05:53:07 Etc/GMT] PHP Notice:  Undefined variable: student_result in /home/rayhe9dx/public_html/placement/student_edit_profile.php on line 57
+[26-Sep-2017 05:53:07 Etc/GMT] PHP Notice:  Undefined variable: student_result in /home/rayhe9dx/public_html/placement/student_edit_profile.php on line 63
+[26-Sep-2017 05:53:07 Etc/GMT] PHP Notice:  Undefined variable: student_result in /home/rayhe9dx/public_html/placement/student_edit_profile.php on line 69
+[26-Sep-2017 05:53:07 Etc/GMT] PHP Notice:  Undefined variable: student_result in /home/rayhe9dx/public_html/placement/student_edit_profile.php on line 75
