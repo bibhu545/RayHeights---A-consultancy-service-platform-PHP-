@@ -1,0 +1,4 @@
+[25-Sep-2017 16:35:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayhe9dx/public_html/Admin/adminHome.php on line 14
+[25-Sep-2017 16:35:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayhe9dx/public_html/Admin/outsource.php on line 14
+[25-Sep-2017 16:35:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayhe9dx/public_html/Admin/outsource.php on line 44
+[25-Sep-2017 16:35:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/rayhe9dx/public_html/Admin/outsource.php on line 67
